@@ -22,3 +22,15 @@ tr {
     border-bottom: 1px solid #99B9FF;
 }
 
+.light-blue{
+    background-color: lightblue;
+}
+
+.light-grey{
+    background-color:lightgrey;
+}
+
+input {
+    margin: 0 auto;
+    display: block;
+}
